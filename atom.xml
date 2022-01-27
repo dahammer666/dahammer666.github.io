@@ -1,25 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Xianqi</title>
+  <title>TT</title>
   
-  <subtitle>Xianqiの博客</subtitle>
-  <link href="http://ze520.cn/atom.xml" rel="self"/>
+  <subtitle>DaChui</subtitle>
+  <link href="https://dahammer666.github.io/atom.xml" rel="self"/>
   
-  <link href="http://ze520.cn/"/>
-  <updated>2021-09-07T14:52:39.538Z</updated>
-  <id>http://ze520.cn/</id>
+  <link href="https://dahammer666.github.io/"/>
+  <updated>2022-01-27T09:55:47.645Z</updated>
+  <id>https://dahammer666.github.io/</id>
   
   <author>
-    <name>Xianqi</name>
+    <name>DaChui</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>测试博客</title>
+    <link href="https://dahammer666.github.io/posts/d9407122.html"/>
+    <id>https://dahammer666.github.io/posts/d9407122.html</id>
+    <published>2022-01-27T09:55:34.000Z</published>
+    <updated>2022-01-27T09:55:47.645Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>博客与博主</title>
-    <link href="http://ze520.cn/posts/1.html"/>
-    <id>http://ze520.cn/posts/1.html</id>
+    <link href="https://dahammer666.github.io/posts/1.html"/>
+    <id>https://dahammer666.github.io/posts/1.html</id>
     <published>2021-05-27T13:00:00.000Z</published>
     <updated>2021-09-07T14:52:39.538Z</updated>
     
@@ -34,10 +47,10 @@
     
     
     
-    <category term="生活" scheme="http://ze520.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://dahammer666.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="想法" scheme="http://ze520.cn/tags/%E6%83%B3%E6%B3%95/"/>
+    <category term="想法" scheme="https://dahammer666.github.io/tags/%E6%83%B3%E6%B3%95/"/>
     
   </entry>
   
