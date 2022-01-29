@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://dahammer666.github.io/posts/c0add594.html</loc>
+    <loc>https://dahammer666.github.io/posts/d9407122.html</loc>
     
     <lastmod>2022-01-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://dahammer666.github.io/posts/d9407122.html</loc>
+    <loc>https://dahammer666.github.io/posts/c0add594.html</loc>
     
     <lastmod>2022-01-29</lastmod>
     
@@ -114,6 +114,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://dahammer666.github.io/tags/GG/</loc>
+    <lastmod>2022-01-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 
   

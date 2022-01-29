@@ -21,7 +21,7 @@
       <link href="/posts/d9407122.html"/>
       <url>/posts/d9407122.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>TT</p><blockquote><p>title: 博客与博主<br>comments: true<br>toc: true<br>cover: <a href="https://s4.ax1x.com/2022/01/28/7x30g0.png">https://s4.ax1x.com/2022/01/28/7x30g0.png</a><br>categories: 生活<br>tags:</p><ul><li>想法<br>abbrlink: 1<br>date: 2021-5-27 21:00:00</li></ul></blockquote><blockquote><ol><li><p><strong>设置站点配置<code>_config.yml</code></strong>:</p><p>将<code>post_asset_folder: false</code>改为<code>post_asset_folder: true</code></p></li><li><p><strong>安装插件</strong>:</p><p><code>npm install https://github.com/CodeFalling/hexo-asset-image -- save</code></p></li><li><p><strong>运行<code>hexo n "XXXXXX"</code></strong>,</p><p>生成XXXXX.md博文时就会在<code>/source/_posts</code>目录下生成XXXXXX的文件夹，将你想在XXXXX博文中插入的照片放置到这个同名文件夹中即可，图片的命名随意。</p></li><li><p><strong>添加图片</strong>:</p><p>在想添加的位置写入<code>![](图片名字.图片格式)</code>,例如<code>![](1.png)</code>。图片的路径和你写入的路径一致。</p></li></ol></blockquote>]]></content>
       
       
       <categories>
@@ -30,6 +30,12 @@
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> GG </tag>
+            
+        </tags>
       
     </entry>
     
