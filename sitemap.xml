@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dahammer666.github.io/posts/jwt/</loc>
+    
+    <lastmod>2022-02-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://dahammer666.github.io/posts/d9407122/</loc>
     
-    <lastmod>2022-01-29</lastmod>
+    <lastmod>2022-02-04</lastmod>
     
   </url>
   
@@ -123,7 +130,7 @@
 
   <url>
     <loc>https://dahammer666.github.io/</loc>
-    <lastmod>2022-01-29</lastmod>
+    <lastmod>2022-02-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -131,7 +138,7 @@
   
   <url>
     <loc>https://dahammer666.github.io/tags/GG/</loc>
-    <lastmod>2022-01-29</lastmod>
+    <lastmod>2022-02-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -140,7 +147,14 @@
   
   <url>
     <loc>https://dahammer666.github.io/categories/%E6%9D%82%E8%AE%B0/</loc>
-    <lastmod>2022-01-29</lastmod>
+    <lastmod>2022-02-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dahammer666.github.io/categories/shop/</loc>
+    <lastmod>2022-02-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
