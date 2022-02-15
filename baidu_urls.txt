@@ -1,3 +1,4 @@
+https://dahammer666.github.io/posts/managermodel/
 https://dahammer666.github.io/posts/shopfm/
 https://dahammer666.github.io/posts/computermanage/
 https://dahammer666.github.io/posts/jwt/
